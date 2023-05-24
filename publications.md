@@ -1,4 +1,4 @@
 ---
 layout: publications
-title: "Working Papers"
+title: "Publications"
 ---
