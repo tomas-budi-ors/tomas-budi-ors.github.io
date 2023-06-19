@@ -3,6 +3,9 @@ layout: home
 title: "Home"
 ---
 
-PhD Candidate in Economics at CEMFI.
+I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/).
 
-I am a macroeconomist with research interests in economic growth and development, and spatial economics.
+My research focuses on macroeconomic development and growth, and spatial economics.
+
+
+Contact: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
