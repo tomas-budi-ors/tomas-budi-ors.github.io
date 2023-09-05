@@ -4,6 +4,7 @@
     {% if page.title == "Home" %}
       {% for item in site.data.working_papers.featured %}
         <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a> {{item.extra_info}} </p>
+        <p>{{ item.abstract }}</p>
       {% endfor %}
     {% else %}
       {% for item in site.data.working_papers.index %}
