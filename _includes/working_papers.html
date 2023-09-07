@@ -3,7 +3,8 @@
     <h3 class="fw-normal border-bottom pb-3 mb-5">Working Papers</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.working_papers.featured %}
-        <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a> {{item.extra_info}} </p>
+        <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a> <span class="coauthors" style="color:#474f52; font-size: 14px;">{{item.extra_info}}</span> </p>
+        <p style="color:#474f52;"><small>{{ item.coauthors }}</small></p>
         <p style="color:#474f52;"><small>{{ item.abstract }}</small></p>
       {% endfor %}
     {% else %}
@@ -13,3 +14,5 @@
     {% endif %}
   </div>
 </div>
+
+
