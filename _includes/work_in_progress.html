@@ -3,7 +3,10 @@
     <h3 class="fw-normal border-bottom pb-3 mb-5">Work in Progress</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.work_in_progress.featured %}
-        <p>{{ item.name }}</p>
+        <p>{{ item.name }}<br>
+        <span style="color:#474f52;"><small>{{ item.coauthors }}</small></span><br>
+        <span style="color:#474f52;"><small>{{ item.abstract }}</small></span></p>
+        </p>
       {% endfor %}
     {% else %}
       {% for item in site.data.work_in_progress.index %}
