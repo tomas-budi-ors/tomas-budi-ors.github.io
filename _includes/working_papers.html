@@ -4,8 +4,9 @@
     {% if page.title == "Home" %}
       {% for item in site.data.working_papers.featured %}
         <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
-        <span class="coauthors" style="color:#474f52; font-size: 14px;">{{item.extra_info}}</span><br>
-        <span style="color:#474f52;"><small>{{ item.coauthors }}</small></span><br>
+        <span style="color:#474f52; font-size: 14px;">{{item.extra_info}}</span><br>
+        <span style="color:#4FB09E;"><small>{{ item.coauthors }}</small></span><br>
+        <span style="color:#b04f61;"><small>{{ item.links }}</small></span><br>
         <span style="color:#474f52;"><small>{{ item.abstract }}</small></span></p>
       {% endfor %}
     {% else %}
