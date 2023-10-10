@@ -18,6 +18,34 @@ p a {
   color: inherit;
 }
 
-span a {
+span.extra-info {
+  color: #474f52;
+}
+
+span.extra-info a {
+  color: currentColor;
+}
+
+span.coauthors {
+  color: #4FB09E;
+}
+
+span.coauthors a {
+  color: currentColor;
+}
+
+span.links {
+  color: #b04f61;
+}
+
+span.links a {
+  color: currentColor;
+}
+
+span.abstract {
+  color: #474f52;
+}
+
+span.abstract a {
   color: currentColor;
 }
