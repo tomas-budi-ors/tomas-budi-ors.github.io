@@ -14,10 +14,6 @@ body a {
   color: $linkColor;
 }
 
-p a {
-  color: inherit;
-}
-
 span.extra-info {
   color: #474f52;
 }
@@ -48,4 +44,8 @@ span.abstract {
 
 span.abstract a {
   color: currentColor;
+}
+
+span a {
+  color: inherit;
 }
