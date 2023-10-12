@@ -19,7 +19,7 @@ span.extra-info {
 }
 
 span.extra-info a {
-  color: currentColor;
+  color: inherit;
 }
 
 span.coauthors {
@@ -27,7 +27,7 @@ span.coauthors {
 }
 
 span.coauthors a {
-  color: currentColor;
+  color: inherit;
 }
 
 span.links {
@@ -35,7 +35,7 @@ span.links {
 }
 
 span.links a {
-  color: currentColor;
+  color: inherit;
 }
 
 span.abstract {
@@ -43,9 +43,5 @@ span.abstract {
 }
 
 span.abstract a {
-  color: currentColor;
-}
-
-span a {
   color: inherit;
 }
