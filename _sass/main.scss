@@ -11,7 +11,7 @@ body {
 
 body a {
   text-decoration: none;
-  color: $linkColor;
+  color: inherit;
 }
 
 span.extra-info {
@@ -44,4 +44,12 @@ span.abstract {
 
 span.abstract a {
   color: inherit;
+}
+
+.col-md-6 {
+  text-align: center;
+}
+
+.col-md-6 img {
+  display: inline-block;
 }
