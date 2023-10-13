@@ -46,10 +46,11 @@ span.abstract a {
   color: inherit;
 }
 
-.col-md-6 {
+.col-md-6.center-image {
   text-align: center;
 }
 
-.col-md-6 img {
+.col-md-6.center-image img {
   display: inline-block;
+  margin: 0 auto;
 }
