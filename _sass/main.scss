@@ -7,6 +7,11 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-size: 17px;
+}
+
+.bolder {
+  font-weight: bolder;
 }
 
 body a {
