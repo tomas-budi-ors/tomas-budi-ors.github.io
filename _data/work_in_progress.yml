@@ -1,5 +1,6 @@
 featured:
-- {name: '"The Life-Cycle of Firms and the Productivity Advantages of Large Cities"'}
+- {name: '"The Life-Cycle of Firms and the Productivity Advantages of Large Cities"', 
+abstract: 'Using administrative data on Spanish firms, I show that firm growth over the life-cycle is faster in larger cities, while entry and exit rates are invariant to city size. I use these facts to discipline a model where ex-ante heterogenous firms choose location based on the expected evolution of their productivity, which also depends on city size due to agglomeration externalities. I use the model to revisit the question of why firms are more productive in larger cities.'}
 
 index:
 - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.'}
