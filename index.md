@@ -7,8 +7,10 @@ I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/){:target="_bl
 
 My research focuses on <span style="color: #b04f61;">macroeconomic development</span> and <span style="color: #b04f61;">spatial economics</span>.
 
-I will be on the **Job Market for Economists** on the 2023-2024 academic year.
+I am on the **Job Market for Economists** this academic year. 
 
 You can find my [CV here](/cv/CV_BudiOrs.pdf){:target="_blank"}.
 
-Contact: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
+<u>Contact</u>: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
+
+<u>References</u>: [Josep Pijoan-Mas](mailto:pijoan@cemfi.es) (advisor), [Nezih Guner](mailto:guner@cemfi.es), and [Michael Waugh](mailto:michael.e.waugh@gmail.com)
