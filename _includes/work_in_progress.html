@@ -4,8 +4,12 @@
     {% if page.title == "Home" %}
       {% for item in site.data.work_in_progress.featured %}
         <p>{{ item.name }}<br>
-        <span style="color:#4FB09E;"><small>{{ item.coauthors }}</small></span><br>
-        <span style="color:#474f52;"><small>{{ item.abstract }}</small></span>
+          {% if item.coauthors %}
+            <span style="color:#4FB09E;"><small>{{ item.coauthors }}</small></span><br>
+          {% endif %}
+          {% if item.abstract %}
+            <span style="color:#474f52;"><small>{{ item.abstract }}</small></span>
+          {% endif %}
         </p>
       {% endfor %}
     {% else %}
