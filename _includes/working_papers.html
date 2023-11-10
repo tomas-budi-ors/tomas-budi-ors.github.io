@@ -3,7 +3,7 @@
     <h3 class="fw-normal border-bottom pb-3 mb-5">Working Papers</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.working_papers.featured %}
-        <p class="featured-item">
+        <p>
           <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
           {% if item.extra_info %}
             <span class="extra-info" style="font-size: 14px;">{{item.extra_info}}</span><br>
