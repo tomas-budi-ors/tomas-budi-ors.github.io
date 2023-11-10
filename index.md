@@ -14,4 +14,4 @@ You can find my [CV here](/cv/CV_BudiOrs.pdf){:target="_blank"}.
 <u>Contact</u>: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
 
 <u>References</u>:  
-[Josep Pijoan-Mas](mailto:pijoan@cemfi.es) (advisor), [Nezih Guner](mailto:nezih.guner@cemfi.es), and [Michael Waugh](mailto:michael.e.waugh@gmail.com)
+[<span style="font-size: 14px; color: #4FB09E;">Josep Pijoan-Mas</span>](mailto:pijoan@cemfi.es) (advisor), [<span style="font-size: 14px; color: #4FB09E;">Nezih Guner</span>](mailto:nezih.guner@cemfi.es), and [<span style="font-size: 14px; color: #4FB09E;">Nezih Guner</span>Michael Waugh</span>](mailto:michael.e.waugh@gmail.com)
