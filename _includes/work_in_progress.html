@@ -8,6 +8,9 @@
           {% if item.coauthors %}
             <span style="color:#4FB09E;"><small>{{ item.coauthors }}</small></span><br>
           {% endif %}
+          {% if item.links %}
+            <span class="links"><small>{{ item.links }}</small></span><br>
+          {% endif %}
           {% if item.abstract %}
             <span style="color:#474f52;"><small>{{ item.abstract }}</small></span>
           {% endif %}

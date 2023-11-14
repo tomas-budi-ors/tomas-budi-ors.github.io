@@ -1,5 +1,6 @@
 featured:
 - {name: '"The Life-Cycle of Firms and the Productivity Advantages of Large Cities"', 
+links: '<a href="/working_papers/SFD_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a>',
 abstract: 'Using administrative data on Spanish firms, I show that firm growth over the life-cycle is faster in larger cities, while entry and exit rates are invariant to city size. I use these facts to discipline a model where ex-ante heterogenous firms choose location based on the expected evolution of their productivity, which also depends on city size due to agglomeration externalities. I use the model to revisit the question of why firms are more productive in larger cities.'}
 
 index:
