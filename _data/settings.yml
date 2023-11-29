@@ -18,7 +18,7 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/tomas-budi-ors'}
 - {icon: 'twitter', link: 'https://twitter.com/tomasbudi_'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.es/citations?user=Iwubs_MAAAAJ&hl=es'}
+- {icon: '"graduation-cap"', link: 'https://scholar.google.es/citations?user=Iwubs_MAAAAJ&hl=es'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
