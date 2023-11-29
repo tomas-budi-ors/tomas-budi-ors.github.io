@@ -9,7 +9,7 @@ My research focuses on <span style="color: #b04f61;">macroeconomic development</
 
 I am on the **Job Market for Economists** this academic year. 
 
-You can find my [CV here](/cv/CV_BudiOrs.pdf){:target="_blank"}.
+You can find my [<u>CV here</u>](/cv/CV_BudiOrs.pdf){:target="_blank"}.
 
 <u>Contact</u>: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
 
