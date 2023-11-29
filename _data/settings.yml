@@ -16,9 +16,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/tomas-budi-ors'}
-- {icon: 'twitter', link: 'https://twitter.com/tomasbudi_'}
-- {icon: '"graduation-cap"', link: 'https://scholar.google.es/citations?user=Iwubs_MAAAAJ&hl=es'}
+- {icon: 'github', link: 'https://github.com/tomas-budi-ors', icon_class: 'fab'}
+- {icon: 'twitter', link: 'https://twitter.com/tomasbudi_', icon_class: 'fab'}
+- {icon: 'graduation-cap', link: 'https://scholar.google.es/citations?user=Iwubs_MAAAAJ&hl=es', icon_class: 'fas'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
