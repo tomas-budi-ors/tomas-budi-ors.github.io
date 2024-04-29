@@ -7,14 +7,17 @@ I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/){:target="_bl
 
 My research focuses on <span style="color: #b04f61;">macroeconomic development</span> and <span style="color: #b04f61;">spatial economics</span>.
 
+I will join the Bank of Spain as a research economist in 2025, after spending one year as a Max Weber Fellow at the EUI. 
 <!-- I will be a Max Weber Fellow at the EUI for the 2024-2025 academic year before joining the Bank of Spain as a Research Economist in September 2025. -->
 
-You can find my [<u>CV here</u>](/cv/CV_BudiOrs.pdf){:target="_blank"}.
+&nbsp;
+
+You can find my [<u>CV here</u>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
 
 &nbsp;
 &nbsp;
 
-<u>Contact</u>: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
+<!--u>Contact</u>: [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)-->
 
-<u>References</u>:  
-[<span style="font-size: 15px; color: #4FB09E;">Josep Pijoan-Mas</span>](mailto:pijoan@cemfi.es)<span style="font-size: 15px;"> (advisor), </span>[<span style="font-size: 15px; color: #4FB09E;">Nezih Guner</span>](mailto:nezih.guner@cemfi.es)<span style="font-size: 15px;">, and </span>[<span style="font-size: 15px; color: #4FB09E;">Michael Waugh</span>](mailto:michael.e.waugh@gmail.com)
+<!--u>References</u>:  
+[<span style="font-size: 15px; color: #4FB09E;">Josep Pijoan-Mas</span>](mailto:pijoan@cemfi.es)<span style="font-size: 15px;"> (advisor), </span>[<span style="font-size: 15px; color: #4FB09E;">Nezih Guner</span>](mailto:nezih.guner@cemfi.es)<span style="font-size: 15px;">, and </span>[<span style="font-size: 15px; color: #4FB09E;">Michael Waugh</span>](mailto:michael.e.waugh@gmail.com)-->
