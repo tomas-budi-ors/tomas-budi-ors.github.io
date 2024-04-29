@@ -7,12 +7,14 @@ I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/){:target="_bl
 
 My research focuses on <span style="color: #b04f61;">macroeconomic development</span> and <span style="color: #b04f61;">spatial economics</span>.
 
+&nbsp;
+
 I will join the Bank of Spain as a research economist in 2025, after spending one year as a Max Weber Fellow at the EUI. 
 <!-- I will be a Max Weber Fellow at the EUI for the 2024-2025 academic year before joining the Bank of Spain as a Research Economist in September 2025. -->
 
 &nbsp;
 
-You can find my [<u>CV here</u>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [tomas.budi@cemfi.edu.es](mailto:tomas.budi@cemfi.edu.es)
+You can find my [<b>CV here</b>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [<b>tomas.budi@cemfi.edu.es<b>](mailto:tomas.budi@cemfi.edu.es)
 
 &nbsp;
 &nbsp;
