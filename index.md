@@ -14,7 +14,7 @@ I will join the Bank of Spain as a research economist in 2025, after spending on
 
 &nbsp;
 
-You can find my [<b>CV here</b>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [<b>tomas.budi@cemfi.edu.es<b>](mailto:tomas.budi@cemfi.edu.es)
+You can find my [<b>CV here</b>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [<b>tomas.budi@cemfi.edu.es</b>](mailto:tomas.budi@cemfi.edu.es)
 
 &nbsp;
 &nbsp;
