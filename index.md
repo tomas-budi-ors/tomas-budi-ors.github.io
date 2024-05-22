@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/){:target="_blank"}.
+Hi! I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/){:target="_blank"}.
 
 My research focuses on <span style="color: #b04f61;">macroeconomic development</span> and <span style="color: #b04f61;">spatial economics</span>.
 
