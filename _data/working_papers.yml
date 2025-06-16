@@ -3,15 +3,15 @@ featured:
     extra_info: '<span style="font-size: 17px; font-weight: bold;"> JMP. </span> May 2025 (first version October 2023)',
     url: '/working_papers/BudiOrs_JMP.pdf', 
     links: '<a href="/working_papers/BudiOrs_JMP.pdf" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">New Draft!</a>',
-    status: '<em>Submitted</em>',
+    status: '<em>Under review</em>',
     abstract: 'Using panel data from Indonesia, I show that most workers switch from agriculture to non-agriculture within rural areas, rather than through migration to urban areas. Armed with a model in which workers choose both their location and their sector of work, I find that frictions to leave agriculture, rather than rural areas, are the main barrier to structural transformation.'}
 - {name: '"Macroeconomic Development, Rural Exodus, and Uneven Industrialization"',
-   extra_info: 'July 2023 (first version March 2022)',
+   extra_info: 'June 2025 (first version March 2022)',
    coauthors: 'with <a href="https://www.cemfi.es/~pijoan/" target="_blank" rel="noopener noreferrer">Josep Pijoan-Mas</a>',
-   links: '<a href="/working_papers/SC_Migration_12bis.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> (CEPR DP17023) | <a href="/working_papers/SC_geo_EEA.pdf" target="_blank" rel="noopener noreferrer">Slides</a>',
-   url: '/working_papers/SC_Migration_12bis.pdf', 
+   links: '<a href="/working_papers/SC_Migration_15.pdf" target="_blank" rel="noopener noreferrer">Working Paper</a> (CEPR DP17023) | <a href="/working_papers/SC_geo_EEA.pdf" target="_blank" rel="noopener noreferrer">Slides</a>',
+   url: '/working_papers/SC_Migration_15.pdf', 
    abstract: 'We show how internal migrations are a key determinant of the heterogeneous industrialization paths experienced by leading and laggard regions within a country.
-    Focusing on Spain (1940-2000), we find that internal migrations, driven by declining migration costs and diverging sectoral productivity across regions, fully explain the lack of industrialization of its laggard areas, and accelerated growth and structural change at the aggregate level.'}
+    Focusing on Spain (1940-2000), we find that internal migration, driven by declining migration costs, fully explain the lack of industrialization of its laggard areas, and accelerated growth at the aggregate level.'}
 #We show how internal migrations are a key determinant of the cross-country heterogeneity in the extent to which industrialization is a local phenomenon or, instead, concentrates in a few regions of the country. Focusing on Spain, 
 index:
 - {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
