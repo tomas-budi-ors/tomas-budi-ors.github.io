@@ -3,7 +3,7 @@ featured:
     extra_info: '<span style="font-size: 17px;"> (JMP) </span> May 2025 (first version October 2023)',
     url: '/working_papers/BudiOrs_JMP.pdf', 
     # links: '<a href="/working_papers/BudiOrs_JMP.pdf" target="_blank" rel="noopener noreferrer"">Working paper</a>',
-    status: '<em>Submitted</em>',
+    # status: '<em>Submitted</em>',
     abstract: 'Using panel data from Indonesia, I show that most workers switch from agriculture to non-agriculture within rural areas, rather than through migration to urban areas. Armed with a model in which workers choose both their location and their sector of work, I find that frictions to leave agriculture, rather than rural areas, are the main barrier to structural transformation.'}
 - {name: '"Macroeconomic Development, Rural Exodus, and Uneven Industrialization"',
    extra_info: 'June 2025 (first version March 2022)',
