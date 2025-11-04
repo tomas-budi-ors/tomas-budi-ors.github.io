@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hi! I am Research Economist at the the [Bank of Spain](https://www.bde.es/wbe/en/).
+Hi! I am Research Economist at the the [Bank of Spain](https://www.bde.es/wbe/en/areas-actuacion/analisis-e-investigacion/).
 <!--Hi! I am Max Weber Postdoctoral Fellow in Economics at the [EUI](https://www.eui.eu/en/academic-units/department-of-economics){:target="_blank"}.
 In September 2025, I will join the [Bank of Spain](https://www.bde.es/investigador/en/) as a research economist.-->
 
@@ -16,7 +16,7 @@ I received my PhD in Economics from [CEMFI](https://www.cemfi.es/) in 2024, and 
 
 &nbsp;
 
-You can find my [<b>CV here</b>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [<b>tomas.budi.ors@gmail.com</b>](mailto:tomas.budi.ors@gmail.com)
+You can find my [<b>CV here</b>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and contact me at [<b>tomas.budi.ors@gmail.com</b>](mailto:tomas.budi.ors@gmail.com) or at [<b>tomas.budi@bde.es</b>](mailto:tomas.budi@bde.es) 
 
 &nbsp;
 <!-- &nbsp; -->
