@@ -57,14 +57,10 @@ span.abstract a {
 }
 
 .col-md-6.center-image {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 
 .col-md-6.center-image img {
-  max-height: 100%;
-  max-width: 100%;
-  width: auto;
-  object-fit: contain;
+  display: inline-block;
+  margin: 0 auto;
 }
