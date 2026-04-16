@@ -4,8 +4,7 @@ title: "Home"
 ---
 
 Hi! I am Research Economist at the the [Bank of Spain](https://www.bde.es/wbe/en/areas-actuacion/analisis-e-investigacion/).
-<!--Hi! I am Max Weber Postdoctoral Fellow in Economics at the [EUI](https://www.eui.eu/en/academic-units/department-of-economics){:target="_blank"}.
-In September 2025, I will join the [Bank of Spain](https://www.bde.es/investigador/en/) as a research economist.-->
+
 
 &nbsp;
 
