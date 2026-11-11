@@ -19,7 +19,8 @@ You can find my [<b>CV here</b>](/cv/CV_BudiOrs.pdf){:target="_blank"}, and cont
 
 &nbsp;
 
-<b>Call for papers:</b> I am co-organizing the [<b>34th CEPR European Summer Symposium in International Macroeconomics (ESSIM)</b>](https://mailchi.mp/cepr/cepr-essim-cfp-13570803){:target="_blank"}, to be held in Roda de Bará (Tarragona, Spain) on 26–28 May 2027. Submissions in any area of macroeconomics are welcome until <span style="color: #b04f61;">10 January 2027!</span>
+<b><u>Call for papers:</u></b> I am co-organizing the [<b>34th CEPR European Summer Symposium in International Macroeconomics (ESSIM)</b>](https://mailchi.mp/cepr/cepr-essim-cfp-13570803){:target="_blank"}, to be held in Roda de Bará (Tarragona, Spain) on 26–28 May 2027. Submissions in any area of macroeconomics are welcome until <span style="color: #b04f61;">10 January 2027!</span>
+{: style="font-size: 14px;"}
 
 &nbsp;
 <!-- &nbsp; -->
