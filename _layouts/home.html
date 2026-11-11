@@ -14,7 +14,9 @@ layout: default
 
 {% include working_papers.html %}
 
+{% if site.data.work_in_progress.featured.size > 0 %}
 {% include work_in_progress.html %}
+{% endif %}
 
 <!--<div class="row g-5 mb-5">
   <div class="col-md-12">

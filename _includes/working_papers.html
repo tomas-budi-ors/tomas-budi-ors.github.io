@@ -4,9 +4,15 @@
     {% if page.title == "Home" %}
       {% for item in site.data.working_papers.featured %}
         <p style="margin-bottom: 30px;">
-          <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+          {% if item.url %}
+            <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+          {% else %}
+            {{ item.name }}
+          {% endif %}
           {% if item.extra_info %}
             <span class="extra-info" style="font-size: 14px;">{{item.extra_info}}</span><br>
+          {% else %}
+            <br>
           {% endif %}
           {% if item.coauthors %}
             <span class="coauthors"><small>{{ item.coauthors }}</small></span><br>
