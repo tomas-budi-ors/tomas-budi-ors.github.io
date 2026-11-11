@@ -2,7 +2,6 @@ featured:
 - {name: '"Macroeconomic Development, Rural Exodus, and Uneven Industrialization"',
    extra_info: 'November 2026 (first version March 2022)',
    coauthors: 'with <a href="https://www.cemfi.es/~pijoan/" target="_blank" rel="noopener noreferrer">Josep Pijoan-Mas</a>',
-   #links: '<a href="/working_papers/SC_Migration_15.pdf" target="_blank" rel="noopener noreferrer">Working Paper (CEPR DP17023)</a>', #| <a href="/working_papers/SC_geo_EEA.pdf" target="_blank" rel="noopener noreferrer">Slides</a>'
    url: '/working_papers/SC_Migration_18.pdf',
    status: 'Revised and Resubmitted <b><em>JPE Macro</em></b>', 
    abstract: 'We show how internal migrations are a key determinant of the heterogeneous industrialization paths experienced by leading and laggard regions within a country. Focusing on Spain (1940-2000), we find that internal migrations, driven by declining migration costs, fully explain the lack of industrialization of its laggard areas, and accelerated growth at the aggregate level.'}
