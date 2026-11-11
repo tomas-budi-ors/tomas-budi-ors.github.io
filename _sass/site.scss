@@ -16,6 +16,11 @@ body a {
   color: #212529;
 }
 
+body a:hover {
+  color: #212529;
+  text-decoration: underline;
+}
+
 span.extra-info {
   color: #474f52;
 }
@@ -63,4 +68,16 @@ span.abstract a {
 .col-md-6.center-image img {
   display: inline-block;
   margin: 0 auto;
+}
+
+a[href^="mailto:"] {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #2E7D6F;
+}
+
+a[href^="mailto:"]:hover {
+  color: #2E7D6F;
+  text-decoration: underline;
 }
