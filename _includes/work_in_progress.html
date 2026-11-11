@@ -1,7 +1,6 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-normal border-bottom pb-3 mb-5">Work in Progress</h3>
-    {% if page.title == "Home" %}
       {% for item in site.data.work_in_progress.featured %}
         <p>
           {{ item.name }}<br>
@@ -16,10 +15,5 @@
           {% endif %}
         </p>
       {% endfor %}
-    {% else %}
-      {% for item in site.data.work_in_progress.index %}
-        <p>{{ item.name }}</p>
-      {% endfor %}
-    {% endif %}
   </div>
 </div>
